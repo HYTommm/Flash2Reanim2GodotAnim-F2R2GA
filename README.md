@@ -1,0 +1,2 @@
+# Flash2Reanim2GodotAnim-F2R2GA
+一个将flash动画转换为godot动画的工具
