@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\HYTomZ\source\repos\PVZ_reanim2godot_animation\PVZ_reanim2godot_animation\main.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\HYTomZ\source\repos\PVZ_reanim2godot_animation\PVZ_reanim2godot_animation\main.c(463,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\HYTomZ\source\repos\PVZ_reanim2godot_animation\PVZ_reanim2godot_animation\main.c(472,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\HYTomZ\source\repos\PVZ_reanim2godot_animation\PVZ_reanim2godot_animation\main.c(491,36): warning C4013: “tolower”未定义；假设外部返回 int
+C:\Users\HYTomZ\source\repos\PVZ_reanim2godot_animation\PVZ_reanim2godot_animation\main.c(555,10): warning C4101: “bytes”: 未引用的局部变量
+C:\Users\HYTomZ\source\repos\PVZ_reanim2godot_animation\PVZ_reanim2godot_animation\main.c(651,28): warning C4047: “函数”:“const char **”与“char [10000][300]”的间接级别不同
+C:\Users\HYTomZ\source\repos\PVZ_reanim2godot_animation\PVZ_reanim2godot_animation\main.c(651,28): warning C4024: “add_node”: 形参和实参 2 的类型不同
+  正在生成代码
+  2 of 21 functions ( 9.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  PVZ_reanim2godot_animation.vcxproj -> C:\Users\HYTomZ\source\repos\PVZ_reanim2godot_animation\Release\PVZ_reanim2godot_animation_x86.exe
